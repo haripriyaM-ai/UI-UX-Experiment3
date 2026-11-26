@@ -34,7 +34,9 @@ The application consists of:
 - **Video Player Screen:** Provides movie playback along with contextual vocabulary explanations, word pronunciation, vocabulary saving and learning tips.
 
 **Output Screenshot:**
-<img width="1536" height="1024" alt="Lingflix_ Learn Through Movies" src="https://github.com/user-attachments/assets/e3363a7b-43b0-4d73-a0ab-2de800d895c0" />
+
+
+<img width="850" height="524" alt="Lingflix_ Learn Through Movies" src="https://github.com/user-attachments/assets/e3363a7b-43b0-4d73-a0ab-2de800d895c0" />
 
 
 ## Result:
